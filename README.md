@@ -1,9 +1,4 @@
 
-  <img width="300px" height="300px" alt="senac-logo" src="https://github.com/user-attachments/assets/8053941e-f051-4f01-a04f-50efc6254dd6" />
-
-
-
-
 <h1> 🧠 Jogo da Memória - Temática Tecnologia e Senac </h1>
 Bem-vindo ao repositório do Jogo da Memória, um projeto divertido e educativo com temática de tecnologia e logos do Senac. O objetivo é testar sua memória enquanto você interage com ícones e elementos visuais ligados ao mundo tech e à instituição Senac.
 
