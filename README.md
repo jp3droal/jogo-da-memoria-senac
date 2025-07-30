@@ -34,8 +34,11 @@ Temática personalizada com ícones de tecnologia e logos do Senac
 Clone o repositório:
 
 git clone https://github.com/seu-usuario/jogo-da-memoria-senac.git
+<br>
 Acesse a pasta do projeto:
+<br>
 cd jogo-da-memoria-senac
+<br>
 Abra o arquivo index.html em seu navegador.
 
 <h2> 📚 Licença </h2>
