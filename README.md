@@ -11,7 +11,7 @@ Interface amigável e responsiva
 
 Animações ao virar as cartas
 
-Contador de tentativas ou tempo (opcional)
+Contador de tempo
 
 Reinício do jogo com embaralhamento das cartas
 
@@ -22,25 +22,19 @@ HTML5
 
 CSS3
 
-JavaScript (puro ou com biblioteca/framework, se aplicável)
+JavaScript 
 
 Imagens e logos do Senac
 
 <h2> 📷 Prévia do Jogo </h2>
-![screenshot opcional aqui – adicione uma imagem do jogo rodando]
+<img width="1055" height="855" alt="image" src="https://github.com/user-attachments/assets/8e80feaf-cc01-4120-9bf5-b8f04f6cab8e" />
+
 
 <h2> 🚀 Como Executar </h2>
 Clone o repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/jogo-da-memoria-senac.git
 Acesse a pasta do projeto:
-
-bash
-Copiar
-Editar
 cd jogo-da-memoria-senac
 Abra o arquivo index.html em seu navegador.
 
