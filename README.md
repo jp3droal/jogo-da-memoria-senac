@@ -1,4 +1,4 @@
-🧠 Jogo da Memória - Temática Tecnologia e Senac
+<h1> 🧠 Jogo da Memória - Temática Tecnologia e Senac </h1>
 Bem-vindo ao repositório do Jogo da Memória, um projeto divertido e educativo com temática de tecnologia e logos do Senac. O objetivo é testar sua memória enquanto você interage com ícones e elementos visuais ligados ao mundo tech e à instituição Senac.
 
 🎮 Sobre o Jogo
