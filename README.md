@@ -18,11 +18,11 @@ Reinício do jogo com embaralhamento das cartas
 Temática personalizada com ícones de tecnologia e logos do Senac
 
 <h2> 💻 Tecnologias Utilizadas </h2>
-<img width="512" height="512" alt="html" src="https://github.com/user-attachments/assets/a4990432-b0f4-47f9-8e9e-d4ff62a68c4a" /> HTML5
+<img width="25" height="25" alt="html" src="https://github.com/user-attachments/assets/a4990432-b0f4-47f9-8e9e-d4ff62a68c4a" /> HTML5
 <br>
-<img width="512" height="512" alt="css-3" src="https://github.com/user-attachments/assets/b02b0f3f-7f38-4865-af7d-96089a07162a" /> CSS3
+<img width="25" height="25" alt="css-3" src="https://github.com/user-attachments/assets/b02b0f3f-7f38-4865-af7d-96089a07162a" /> CSS3
 <br>
-<img width="512" height="512" alt="js" src="https://github.com/user-attachments/assets/42649afe-a27a-4615-b810-fcae4727de45" /> JAVASCRIPT 
+<img width="25" height="25" alt="js" src="https://github.com/user-attachments/assets/42649afe-a27a-4615-b810-fcae4727de45" /> JAVASCRIPT 
 <br>
 Imagens e logos do Senac
 
