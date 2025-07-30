@@ -9,7 +9,7 @@ O jogo é ideal para atividades educacionais, feiras de tecnologia ou simplesmen
 
 <h2> 🧩 Funcionalidades </h2>
 Interface amigável e responsiva
-
+<br>
 Animações ao virar as cartas
 
 Contador de tempo
