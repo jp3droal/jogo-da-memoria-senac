@@ -24,7 +24,7 @@ Temática personalizada com ícones de tecnologia e logos do Senac
 <br>
 <img width="25" height="25" alt="js" src="https://github.com/user-attachments/assets/42649afe-a27a-4615-b810-fcae4727de45" /> JAVASCRIPT 
 <br>
-Imagens e logos do Senac
+
 
 <h2> 📷 Prévia do Jogo </h2>
 <img width="1055" height="855" alt="image" src="https://github.com/user-attachments/assets/8e80feaf-cc01-4120-9bf5-b8f04f6cab8e" />
